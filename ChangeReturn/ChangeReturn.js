@@ -70,12 +70,10 @@ function changeReturn(){
         else if(change >= dime.value){
             temp = (change*10 - dime.value *10);
             change = temp/10;
-            alert(change);
             numDimes++;
         }
 
         else if(change >= nickel.value){
-            alert(change);
             temp = (change*10 - nickel.value *10);
             change = temp/10;
             numNickles++;
