@@ -1,0 +1,12 @@
+ul li{
+    display:inline-block; 
+    /*float:left; */
+    /*width:10px;*/
+
+}
+img{
+    width: 100px;
+}
+ul{
+    list-style:none;
+}
